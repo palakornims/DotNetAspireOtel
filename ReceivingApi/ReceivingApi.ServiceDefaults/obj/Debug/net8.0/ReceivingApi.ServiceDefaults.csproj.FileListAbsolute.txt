@@ -1,0 +1,12 @@
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\bin\Debug\net8.0\ReceivingApi.ServiceDefaults.deps.json
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\bin\Debug\net8.0\ReceivingApi.ServiceDefaults.dll
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\bin\Debug\net8.0\ReceivingApi.ServiceDefaults.pdb
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.csproj.AssemblyReference.cache
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.AssemblyInfoInputs.cache
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.AssemblyInfo.cs
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.dll
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\refint\ReceivingApi.ServiceDefaults.dll
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ReceivingApi.ServiceDefaults.pdb
+C:\DEv\ReceivingApi\ReceivingApi.ServiceDefaults\obj\Debug\net8.0\ref\ReceivingApi.ServiceDefaults.dll

@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SendApiWithAspire/.vs/SendApiWithAspire
+/SendApiWithAspire/SendApi.Infrastructure/obj
+/SendApiWithAspire/SendApi.Service/bin/Debug/net8.0
+/SendApiWithAspire/SendApi.Service/obj
+/SendApiWithAspire/SendApiWithAspire/bin/Debug/net8.0
+/SendApiWithAspire/SendApiWithAspire/obj
+/SendApiWithAspire/SendApiWithAspire.AppHost/obj
+/SendApiWithAspire/SendApiWithAspire.ServiceDefaults/bin/Debug/net8.0
+/SendApiWithAspire/SendApiWithAspire.ServiceDefaults/obj
